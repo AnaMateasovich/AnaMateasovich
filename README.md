@@ -8,7 +8,7 @@ Actualmente trabajo con:
 - React
 - Next.js
 - Prisma
-- PostgreSQL
+- MySQL
 - Tailwind CSS
 - Zod
 
@@ -17,7 +17,7 @@ Actualmente trabajo con:
 ### Sabores Naturales
 Aplicación full stack para gestión de productos, pedidos y administración de un negocio gastronómico.
 
-**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Tailwind CSS y Zod.
+**Stack:** Next.js, TypeScript, Prisma, MySQL, Tailwind CSS y Zod.
 
 ## Actualmente aprendiendo
 
